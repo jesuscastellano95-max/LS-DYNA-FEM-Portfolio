@@ -1,0 +1,85 @@
+# ==========================================
+# LS-DYNA generated simulation files
+# ==========================================
+
+d3plot*
+d3dump*
+binout*
+messag
+glstat
+matsum
+nodout
+elout
+rcforc
+sleout
+spcforc
+rwforc
+abstat
+bndout
+deforc
+demrcf
+jntforc
+ncforc
+rbdout
+secforc
+swforc
+
+# LS-DYNA temporary/restart files
+*.tmp
+*.bak
+*.out
+
+# ==========================================
+# LS-PrePost / temporary files
+# ==========================================
+
+*.lspost
+*.cfile
+*~
+
+# ==========================================
+# Operating system files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Keep the important portfolio files
+# ==========================================
+
+!*.k
+!*.md
+!*.png
+!*.jpg
+!*.jpeg
+!*.mp4
+
+# LS-DYNA result files
+d3plot*
+d3dump*
+d3hsp
+binout*
+messag
+glstat
+matsum
+rcforc
+nodout
+elout
+spcforc
+sleout
+ldcrvv
+
+# LS-PrePost / LS-Run auxiliary files
+lspost.db
+lspost.msg
+lsrun.out.txt
+lsruncommand.bat
+lsrunid
+group_file
+ldcurvv
+
+# Temporary files
+*.tmp
+*.bak
