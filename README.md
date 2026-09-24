@@ -160,3 +160,12 @@ The simulations contained in this repository were developed for **educational, n
 They are intended to demonstrate finite element modelling, simulation and post-processing workflows.
 
 The models should not be considered engineering-certified analyses or validated designs for safety-critical applications.
+
+## References & Acknowledgements
+
+Exercises 01 and 02 in this portfolio were developed as part of my LS-DYNA learning process, following tutorials by Ameen Topa.
+
+The models were independently recreated in LS-PrePost/LS-DYNA, with my own documentation, results, post-processing, and additional theoretical explanations.
+
+Tutorial series:  
+https://www.youtube.com/playlist?list=PLlD7jcws1RhCtxR2PppLdc_CuIcR7XcxG
